@@ -1,4 +1,12 @@
 NP/
+NP_gray/
+
+Data/
+Data_gray/
+
+Models/
+
 zip/
+
 .ipynb_checkpoints/
 
