@@ -1,0 +1,17 @@
+NP/
+NP_gray/
+
+Data/
+Data_gray/
+Data_class_drop_4/
+Data_class_integrate_4/
+
+Models/
+
+zip/
+
+opencv/
+
+.ipynb_checkpoints/
+
+*.jpg
