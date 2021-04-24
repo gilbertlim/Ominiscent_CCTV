@@ -15,3 +15,5 @@ opencv/
 .ipynb_checkpoints/
 
 *.jpg
+
+.DS_Store
